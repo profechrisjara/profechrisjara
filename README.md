@@ -45,10 +45,8 @@
 
 
 ### Contact me:
-
-<img src="D:\GitHub\RedMe\Imagenes_Redme\facebook.png" style="zoom:15%;" /> <img src="D:\GitHub\RedMe\Imagenes_Redme\social.png" style="zoom:15%;" /> <img src="D:\GitHub\RedMe\Imagenes_Redme\tik-tok.png" style="zoom:15%;" /> <img src="D:\GitHub\RedMe\Imagenes_Redme\whatsapp.png" style="zoom:15%;" /> 
-
+![facebook_profechrisjara](image/facebook_ProfeChrisJara.png)
 
 
 ### Languages and tools:
-![python](Imagenes_Redme/piton.png)
+
