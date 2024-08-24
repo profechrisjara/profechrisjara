@@ -36,6 +36,6 @@
 
 ### Contact me:
 
-[![facebook_ProfeChrisJara](image/Facebook_ProfeChrisJara.png)](https://www.facebook.com/profechrisjara) ![LinkedIn_ProfeChrisJara](image/LinkedIn_ProfeChrisJara.png) ![TikTok_ProfeChrisJara](image/TikTok_ProfeChrisJara.png) ![whatsapp_ProfeChrisJara](image/Whastapp_ProfeChrisJara.png)
+[![facebook_ProfeChrisJara](image/Facebook_ProfeChrisJara.png)](https://www.facebook.com/profechrisjara) [![LinkedIn_ProfeChrisJara](image/LinkedIn_ProfeChrisJara.png)](www.linkedin.com/in/profechrisjara) [![TikTok_ProfeChrisJara](image/TikTok_ProfeChrisJara.png)](https://www.tiktok.com/@profechrisja) [![whatsapp_ProfeChrisJara](image/Whastapp_ProfeChrisJara.png)](https://api.whatsapp.com/send/?phone=%2B593998111994&text&type=phone_number&app_absent=0)
 
 ### Languages and tools:
