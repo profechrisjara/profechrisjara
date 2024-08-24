@@ -39,3 +39,5 @@
 [![facebook_ProfeChrisJara](image/Facebook_ProfeChrisJara.png)](https://www.facebook.com/profechrisjara) [![LinkedIn_ProfeChrisJara](image/LinkedIn_ProfeChrisJara.png)](https://www.linkedin.com/in/profechrisjara) [![TikTok_ProfeChrisJara](image/TikTok_ProfeChrisJara.png)](https://www.tiktok.com/@profechrisjara) [![whatsapp_ProfeChrisJara](image/Whastapp_ProfeChrisJara.png)](https://api.whatsapp.com/send/?phone=%2B593998111994&text&type=phone_number&app_absent=0)
 
 ### Languages and tools:
+
+[![html_profechrisjara](image/HTML_ProfeChrisJara.png)]()  [![css_profechrisjara](image/CSS_ProfeChrisJara.png)]()  [![javascript_Profechrisjara](image/HTML_ProfeChrisJara.png)]()  [![reactja_ProfeChrisJara](image/React_ProfeChrisJara.png)]()  [![python_ProfeChrisJara](image/Python_ProfeChrisJara.png)]()  [![sql_ProfeChrisJara](image/MySQL_ProfeChrisJara.png)]()
