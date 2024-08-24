@@ -45,7 +45,7 @@
 
 
 ### Contact me:
-![facebook_profechrisjara](image/facebook_ProfeChrisJara.png)
+![facebook_profechrisjara](image/facebook_ProfeChrisJara.png) ![linkedin_profechrisjara](image/tiktok.png)
 
 
 ### Languages and tools:
