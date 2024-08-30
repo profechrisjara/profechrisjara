@@ -6,7 +6,7 @@
 
 - Development Lab:  [Innova Social Web.]() (HTML5, CSS, JavaScript)
 - Communications Department:  [U.E. &#34;Carlos Crespi II&#34;]() (Google ADS - Facebook ADS - TikTok ADS - SEO)
-- Web Development Department: [Codding Academy]() (Python - HTML5 - Django - React)
+- Web Development Department: [4Geeks Academy]() (Python - HTML5 - Django - React)
 - gitHub Courses Facilitator: [Algorithmics]() (Git - GitHub)
 
 ### My courses on eBook:
