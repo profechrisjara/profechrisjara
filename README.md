@@ -36,7 +36,7 @@
 
 ### Events and Championships
 
-- 🏆 CrespiBot 2025 [Desprograma tu mente y construye tu mundo] (https://profechrisjara.github.io/CrespiBot/)
+- 🏆 CrespiBot 2025: [Desprograma tu mente y construye tu futuro](https://profechrisjara.github.io/CrespiBot/)
 
 ### Contact me:
 
